@@ -6,8 +6,8 @@
 || *Filename* || *Summary* || *Release* || *Date* || *Size* ||
 || *[http://downloads.tungsten-replicator.org/download.php?file=tungsten-replicator-oss-4.0.1-123.tar.gz tungsten-replicator-oss-4.0.1-123.tar.gz]* || Tungsten Replicator 4.0.1  Binary Build  || *GA*  || 2015-04-17 || 25 MB ||
 || *[http://downloads.tungsten-replicator.org/download.php?file=tungsten-replicator-oss-4.0.1-123-src.tar.gz tungsten-replicator-oss-4.0.1-123-src.tar.gz]* ||Tungsten Replicator 4.0.1 Source Build  || *GA* || 2015-04-17 || 29 MB ||
-|| *[http://downloads.tungsten-replicator.org/download.php?file=tungsten-replicator-oss-4.0.0-18.tar.gz tungsten-replicator-oss-4.0.0-18.tar.gz]* || Tungsten Replicator 4.0.0  Binary Build  || *GA*  || 2015-04-17 || 29 MB ||
-|| *[http://downloads.tungsten-replicator.org/download.php?file=tungsten-replicator-oss-4.0.0-18-src.tar.gz tungsten-replicator-oss-4.0.0-18-src.tar.gz]* ||Tungsten Replicator 4.0.0 Source Build  || *GA* || 2015-04-17 || 29 MB ||
+|| *[http://downloads.tungsten-replicator.org/download.php?file=tungsten-replicator-oss-4.0.0-18.tar.gz tungsten-replicator-oss-4.0.0-18.tar.gz]* || Tungsten Replicator 4.0.0  Binary Build  || GA  || 2015-04-17 || 29 MB ||
+|| *[http://downloads.tungsten-replicator.org/download.php?file=tungsten-replicator-oss-4.0.0-18-src.tar.gz tungsten-replicator-oss-4.0.0-18-src.tar.gz]* ||Tungsten Replicator 4.0.0 Source Build  || GA || 2015-04-17 || 29 MB ||
 || [http://downloads.tungsten-replicator.org/download.php?file=tungsten-replicator-3.0.1-64.tar.gz tungsten-replicator-3.0.1-64.tar.gz] || Tungsten Replicator 3.0.1 Binary Build  || GA for MySQL only || 2014-12-19 || 26.9 MB ||
 || [http://downloads.tungsten-replicator.org/download.php?file=tungsten-replicator-3.0.1-64-src.tar.gz tungsten-replicator-3.0.1-64-src.tar.gz] || Tungsten Replicator 3.0.1 Source Build  || GA for MySQL only || 2014-12-19 || 31.3 MB ||
 || [http://downloads.tungsten-replicator.org/download.php?file=tungsten-replicator-3.0.0-524.tar.gz tungsten-replicator-3.0.0-524.tar.gz] || Tungsten Replicator 3.0.0 Binary Build  || GA || 2014-11-18 || 26.9 MB ||
