@@ -1,5 +1,9 @@
 #summary Tungsten Replicator requisites for installation.
 <wiki:toc max_depth="4" />
+==Tungsten Replicator, Apache 2.0 Licensed and on Github==
+
+The Tungsten Replicator project has moved to an Apache 2.0 license, and the code is now hosted on [http://github.com/vmware/tungsten-replicator Github]. 
+
 = Tungsten Replicator Pre-Requisites =
 
 To start Tungsten installation, there are some requirements to be met, for the operating system and for the database server.
