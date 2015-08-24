@@ -1,5 +1,8 @@
 #summary Proposal for replicator filter infrastructure
 #labels Phase-Design
+==Tungsten Replicator, Apache 2.0 Licensed and on Github==
+
+The Tungsten Replicator project has moved to an Apache 2.0 license, and the code is now hosted on [http://github.com/vmware/tungsten-replicator Github]. 
 
 = Background =
 
