@@ -1,5 +1,9 @@
 #summary How to submit a good database bug report
 #labels Featured,Phase-QA
+==Tungsten Replicator, Apache 2.0 Licensed and on Github==
+
+The Tungsten Replicator project has moved to an Apache 2.0 license, and the code is now hosted on [http://github.com/vmware/tungsten-replicator Github]. 
+
 = How to submit a good database bug report =
 
 When an open source project becomes popular, bug reports start flocking in. This is both good and bad news for the project developers. The good news is that someone is using the product, and they are finding ways of breaking it that we didn't think of. The bad news is that most of the times the reporters assume that the developers have super human powers, and that they will find what's wrong by the simple mentioning that a given feature is not working as expected. Unfortunately, it doesn't work that way. An effective bug report should have enough information that the ones in charge will be able to reproduce it and examine in lab conditions to find the problem. When dealing with databases and database tools, there are several cases, from simple to complex. Let's cover them in order.
