@@ -1,4 +1,8 @@
 #summary Theory and Practice of the Transaction History Log
+==Tungsten Replicator, Apache 2.0 Licensed and on Github==
+
+The Tungsten Replicator project has moved to an Apache 2.0 license, and the code is now hosted on [http://github.com/vmware/tungsten-replicator Github]. 
+
 = Overview =
 
 The Transaction History Log, or THL, provides persistent storage of transactions.  It enables very fast transfer of transactions between locations while at the same time preventing data loss due to failures of hosts, processes, and DBMS software. 
